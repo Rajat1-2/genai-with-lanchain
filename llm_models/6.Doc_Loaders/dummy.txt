@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is a field of computer science that focuses on creating machines and software that can perform tasks that normally require human intelligence.
+
+Machine Learning (ML) is a subset of Artificial Intelligence. It allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every situation.
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers. Deep learning is widely used in image recognition, natural language processing, speech recognition, and recommendation systems.
+
+Generative AI is a type of artificial intelligence that can generate new content such as text, images, audio, video, and code. Large Language Models (LLMs) such as GPT-based models can understand and generate human-like text.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with Large Language Models. In a RAG system, relevant documents are retrieved from a knowledge base and provided to the language model as context before generating an answer.
